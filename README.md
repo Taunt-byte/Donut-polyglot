@@ -1,8 +1,6 @@
-# Donut
-
 <p align="center">
   <a href="https://unform.dev">
-    <img src="assets/img/Logo.png" height="150" width="175" alt="Unform" />
+    <img src="img/Logo.png" height="150" width="175" alt="Unform" />
   </a>
 </p>
 <h1 align="center">Donut em varias linguagens</h1> 
@@ -13,6 +11,7 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Sobre)
+   * [Como funciona](#Como-funciona)
    * [Fotos](#Fotos)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
@@ -22,58 +21,63 @@ Tabela de conteúdos
 <!--te-->
 
 <h4 align="center"> 
-	✔️  Pronto  ✔️
+	🚧  Em desenvolvimento.  🚧
 </h4>
+
 
 ## Sobre
 
-Em seu núcleo, é um framebuffer e um Z-buffer no qual se renderiza pixels. Uma vez que está apenas renderizando arte ASCII de resolução relativamente baixa, eu trapaceio maciçamente. Tudo o que ele faz é plotar pixels ao longo da superfície do toro em incrementos de ângulo fixo, e o faz com densidade suficiente para que o resultado final pareça sólido. Os “pixels” que plota são caracteres ASCII correspondentes ao valor de iluminação da superfície em cada ponto:., - ~:; =! * # $ @ Do mais escuro ao mais brilhante. Nenhum raytracing necessário.
+Em desenvolvimento
 
-Então, como fazemos isso? Bem, vamos começar com a matemática básica por trás da renderização em perspectiva 3D. O diagrama a seguir é uma vista lateral de uma pessoa sentada em frente a uma tela, visualizando um objeto 3D atrás dela.
+## Como funciona
 
-
-+ É uma rosquinha que se mexe no terminal
-+ Foi feita em 2006 usando a linguagem C
-+ O link para a materia feita pelo autor esta abaixo:
-    
-    <code>https://www.a1k0n.net/2011/07/20/donut-math.html</code>
-
+Em seu núcleo, é um framebuffer e um Z-buffer no qual se renderiza pixels. 
+Uma vez que está apenas renderizando arte ASCII de resolução relativamente baixa, eu trapaceio maciçamente. 
+Tudo o que ele faz é plotar pixels ao longo da superfície do toro em incrementos de ângulo fixo, e o faz com densidade suficiente para que o resultado final pareça sólido. 
+Os “pixels” que plota são caracteres ASCII correspondentes ao valor de iluminação da superfície em cada ponto:., - ~:; =! * # $ @ 
+Do mais escuro ao mais brilhante. 
 
 ## Fotos
 
-<img src="assets/img/resultado.png"  alt="Unform" />
+Em desenvolvimento
 
 ## Tabela de conteudo
 
-- [x] Imagens de hoteis
-- [x] CSS
+- [x] C
+- [ ] C++
+- [ ] Dart
+- [ ] JavaScript
+- [ ] Python
 
 ## Instalacao
 
 Para instalar esse repositorio basta seguir os seguintes passos
 
-1) Digite em seu terminal <code> </code>
+1) Digite em seu terminal 
+
+   <code>git clone https://github.com/Taunt-byte/Desafio-Donut.git</code>
 
 ## Como usar
 
-Para usar basta abrir o arquivo index.html em qualquer Navegador(Edge, Firefox, etc)
+- Em desenvolvimento
 
 ## Pre requisitos
 
 Para se ter proveito desse repositorio basta ter em sua maquina os seguintes itens: 
  
-1) Instale o Git em sua maquina 
+1) Instale o Git em sua maquina
+
 2) Instale uma IDE (Recomendo o VScode)  
 
 ## Tecnologias
 
  <table>
     <tr>
-    <td>HTML</td>
-    <td>CSS</td>
+    <td>C</td>
+    <td>C++</td>
     </tr>
     <tr>
-    <td>5.*.*</td>
-    <td>3.*.*</td>
+    <td>-</td>
+    <td>-</td>
     </tr>
 </table>
